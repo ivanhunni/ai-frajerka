@@ -1,0 +1,3 @@
+Umenie je reflexiou ľudskej duše a kreativity naprieč rôznymi historickými obdobiami.
+Vedecká metóda zahŕňa pozorovanie, formuláciu hypotéz, experimentovanie a analýzu výsledkov.
+Toto je ukážkový text pre trénovanie tokenizera v jazyku Python.
