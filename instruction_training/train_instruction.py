@@ -5,7 +5,8 @@ from torch.utils.data import DataLoader
 from torch.nn import CrossEntropyLoss
 
 from model.transformer import Transformer  # Predpokladaný názov vášho modelu
-from tokenizer.tokenizer import Tokenizer        # Predpokladaný názov vášho tokenizeru
+from tokenizers import Tokenizer
+from model.config import TransformerConfig        # Predpokladaný názov vášho tokenizeru
 from instruction_training.config import InstructionTrainingConfig
 from instruction_training.dataset import InstructionDataset, collate_instruction_fn
 
@@ -19,7 +20,7 @@ def train_instruction_tuning():
 
     # 2. Načítanie Predtrénovaného Modelu
     print("Načítavam predtrénovaný model...")
-    model = Transformer() # Inicializácia architektúry
+    model = Transformer(TransformerConfig(vocab_size=tokenizer.get_vocab_size(), max_seq_len=cfg.max_seq_len))
     if os.path.exists(cfg.pretrained_checkpoint_path):
         checkpoint = torch.load(cfg.pretrained_checkpoint_path, map_location=device)
         model.load_state_dict(checkpoint["model_state_dict"])

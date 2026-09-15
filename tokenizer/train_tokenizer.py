@@ -1,27 +1,26 @@
+from pathlib import Path
 from tokenizers import Tokenizer
 from tokenizers.models import BPE
 from tokenizers.trainers import BpeTrainer
 from tokenizers.pre_tokenizers import Whitespace
 
+ROOT = Path(__file__).resolve().parent
+CORPUS = ROOT / "corpus.txt"
+OUTPUT = ROOT / "tokenizer.json"
+
+SPECIAL_TOKENS = [
+    "[PAD]", "[UNK]", "[CLS]", "[SEP]", "[MASK]",
+    "<|system|>", "<|user|>", "<|assistant|>", "<|end|>",
+]
+
 def train():
-    # Inicializácia BPE tokenizera
     tokenizer = Tokenizer(BPE(unk_token="[UNK]"))
     tokenizer.pre_tokenizer = Whitespace()
-
-    # Nastavenie trenéra a špeciálnych tokenov
-    trainer = BpeTrainer(
-        vocab_size=1000,
-        min_frequency=1,
-        special_tokens=["[PAD]", "[UNK]", "[CLS]", "[SEP]", "[MASK]"]
-    )
-
-    # Trénovanie na texte zo súboru corpus.txt
-    files = ["corpus.txt"]
-    tokenizer.train(files, trainer)
-
-    # Uloženie naučeného slovníka a pravidiel do tokenizer.json
-    tokenizer.save("tokenizer.json")
-    print("Tokenizer bol úspešne vytrénovaný a uložený do 'tokenizer.json'.")
+    trainer = BpeTrainer(vocab_size=1000, min_frequency=1, special_tokens=SPECIAL_TOKENS)
+    tokenizer.train([str(CORPUS)], trainer)
+    tokenizer.save(str(OUTPUT))
+    print(f"Tokenizer uložený do {OUTPUT}")
+    print(f"Vocab size: {tokenizer.get_vocab_size()}")
 
 if __name__ == "__main__":
     train()

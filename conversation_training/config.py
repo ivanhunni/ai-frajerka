@@ -21,7 +21,7 @@ class ConversationTrainingConfig:
     batch_size: int = 2
     learning_rate: float = 1e-5  # Nižšia učiaca rýchlosť pre jemné dolaďovanie dialógu
     weight_decay: float = 0.01
-    max_seq_len: int = 1024       # Dlhší kontext pre uloženie histórie správ
+    max_seq_len: int = 512       # Dlhší kontext pre uloženie histórie správ
     
     # HW & Nastavenia
     device: str = "cuda"

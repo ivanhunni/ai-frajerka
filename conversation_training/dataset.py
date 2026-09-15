@@ -55,7 +55,7 @@ class ConversationDataset(Dataset):
 
         # Vloženie systémového promptu
         sys_formatted = f"<|system|>\n{system_prompt}\n"
-        sys_ids = self.tokenizer.encode(sys_formatted)
+        sys_ids = self.tokenizer.encode(sys_formatted).ids
         full_input_ids.extend(sys_ids)
         labels.extend([-100] * len(sys_ids))  # Systémový prompt sa netrénuje
 
@@ -65,12 +65,12 @@ class ConversationDataset(Dataset):
 
             if role == "user":
                 formatted = f"<|user|>\n{content}\n"
-                ids = self.tokenizer.encode(formatted)
+                ids = self.tokenizer.encode(formatted).ids
                 full_input_ids.extend(ids)
                 labels.extend([-100] * len(ids))  # Správy používateľa ignorujeme
             else:
                 formatted = f"<|assistant|>\n{content}\n"
-                ids = self.tokenizer.encode(formatted)
+                ids = self.tokenizer.encode(formatted).ids
                 full_input_ids.extend(ids)
                 labels.extend(ids)  # Odpovede AI sa učíme generovať
 

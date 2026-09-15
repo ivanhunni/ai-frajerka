@@ -1,1 +1,877 @@
-{}
+{
+  "version": "1.0",
+  "truncation": null,
+  "padding": null,
+  "added_tokens": [
+    {
+      "id": 0,
+      "content": "[PAD]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 1,
+      "content": "[UNK]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 2,
+      "content": "[CLS]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 3,
+      "content": "[SEP]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 4,
+      "content": "[MASK]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 5,
+      "content": "<|system|>",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 6,
+      "content": "<|user|>",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 7,
+      "content": "<|assistant|>",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 8,
+      "content": "<|end|>",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    }
+  ],
+  "normalizer": null,
+  "pre_tokenizer": {
+    "type": "Whitespace"
+  },
+  "post_processor": null,
+  "decoder": null,
+  "model": {
+    "type": "BPE",
+    "dropout": null,
+    "unk_token": "[UNK]",
+    "continuing_subword_prefix": null,
+    "end_of_word_suffix": null,
+    "fuse_unk": false,
+    "byte_fallback": false,
+    "ignore_merges": false,
+    "vocab": {
+      "[PAD]": 0,
+      "[UNK]": 1,
+      "[CLS]": 2,
+      "[SEP]": 3,
+      "[MASK]": 4,
+      "<|system|>": 5,
+      "<|user|>": 6,
+      "<|assistant|>": 7,
+      "<|end|>": 8,
+      ",": 9,
+      ".": 10,
+      "P": 11,
+      "T": 12,
+      "U": 13,
+      "V": 14,
+      "a": 15,
+      "b": 16,
+      "c": 17,
+      "d": 18,
+      "e": 19,
+      "f": 20,
+      "h": 21,
+      "i": 22,
+      "j": 23,
+      "k": 24,
+      "l": 25,
+      "m": 26,
+      "n": 27,
+      "o": 28,
+      "p": 29,
+      "r": 30,
+      "s": 31,
+      "t": 32,
+      "u": 33,
+      "v": 34,
+      "x": 35,
+      "y": 36,
+      "z": 37,
+      "á": 38,
+      "é": 39,
+      "ó": 40,
+      "ô": 41,
+      "ý": 42,
+      "č": 43,
+      "ľ": 44,
+      "ň": 45,
+      "ŕ": 46,
+      "š": 47,
+      "ž": 48,
+      "ie": 49,
+      "ov": 50,
+      "an": 51,
+      "en": 52,
+      "ex": 53,
+      "mi": 54,
+      "or": 55,
+      "re": 56,
+      "ovan": 57,
+      "ovanie": 58,
+      "ck": 59,
+      "ed": 60,
+      "er": 61,
+      "je": 62,
+      "kov": 63,
+      "men": 64,
+      "ob": 65,
+      "ot": 66,
+      "Py": 67,
+      "Tot": 68,
+      "Umen": 69,
+      "Ved": 70,
+      "ah": 71,
+      "al": 72,
+      "ap": 73,
+      "at": 74,
+      "az": 75,
+      "ami": 76,
+      "ci": 77,
+      "da": 78,
+      "ds": 79,
+      "du": 80,
+      "dob": 81,
+      "ej": 82,
+      "et": 83,
+      "eck": 84,
+      "fl": 85,
+      "for": 86,
+      "hi": 87,
+      "ho": 88,
+      "hy": 89,
+      "io": 90,
+      "it": 91,
+      "iv": 92,
+      "iz": 93,
+      "ick": 94,
+      "imen": 95,
+      "iami": 96,
+      "jaz": 97,
+      "ku": 98,
+      "ká": 99,
+      "ken": 100,
+      "kre": 101,
+      "kej": 102,
+      "lá": 103,
+      "led": 104,
+      "mu": 105,
+      "met": 106,
+      "ny": 107,
+      "novanie": 108,
+      "nap": 109,
+      "oz": 110,
+      "oken": 111,
+      "pre": 112,
+      "per": 113,
+      "pot": 114,
+      "poz": 115,
+      "ré": 116,
+      "rô": 117,
+      "rie": 118,
+      "st": 119,
+      "sled": 120,
+      "tex": 121,
+      "tovanie": 122,
+      "tho": 123,
+      "token": 124,
+      "tré": 125,
+      "uds": 126,
+      "uká": 127,
+      "vý": 128,
+      "yku": 129,
+      "zu": 130,
+      "zah": 131,
+      "zny": 132,
+      "éz": 133,
+      "óda": 134,
+      "ými": 135,
+      "ýzu": 136,
+      "ľuds": 137,
+      "ňa": 138,
+      "ŕňa": 139,
+      "še": 140,
+      "žkov": 141,
+      "anal": 142,
+      "exio": 143,
+      "exper": 144,
+      "orovanie": 145,
+      "orick": 146,
+      "refl": 147,
+      "era": 148,
+      "obdob": 149,
+      "Pytho": 150,
+      "Toto": 151,
+      "Umenie": 152,
+      "Vedeck": 153,
+      "ativ": 154,
+      "ciu": 155,
+      "duše": 156,
+      "formu": 157,
+      "hist": 158,
+      "hypot": 159,
+      "ity": 160,
+      "izera": 161,
+      "imentovanie": 162,
+      "jazyku": 163,
+      "kreativ": 164,
+      "láciu": 165,
+      "metóda": 166,
+      "naprie": 167,
+      "pozorovanie": 168,
+      "rôzny": 169,
+      "sledkov": 170,
+      "text": 171,
+      "tokenizera": 172,
+      "trénovanie": 173,
+      "ukážkov": 174,
+      "výsledkov": 175,
+      "zahŕňa": 176,
+      "ľudskej": 177,
+      "analýzu": 178,
+      "exiou": 179,
+      "experimentovanie": 180,
+      "orickými": 181,
+      "reflexiou": 182,
+      "obdobiami": 183,
+      "Python": 184,
+      "Vedecká": 185,
+      "formuláciu": 186,
+      "historickými": 187,
+      "hypotéz": 188,
+      "kreativity": 189,
+      "naprieč": 190,
+      "rôznymi": 191,
+      "ukážkový": 192
+    },
+    "merges": [
+      [
+        "i",
+        "e"
+      ],
+      [
+        "o",
+        "v"
+      ],
+      [
+        "a",
+        "n"
+      ],
+      [
+        "e",
+        "n"
+      ],
+      [
+        "e",
+        "x"
+      ],
+      [
+        "m",
+        "i"
+      ],
+      [
+        "o",
+        "r"
+      ],
+      [
+        "r",
+        "e"
+      ],
+      [
+        "ov",
+        "an"
+      ],
+      [
+        "ovan",
+        "ie"
+      ],
+      [
+        "c",
+        "k"
+      ],
+      [
+        "e",
+        "d"
+      ],
+      [
+        "e",
+        "r"
+      ],
+      [
+        "j",
+        "e"
+      ],
+      [
+        "k",
+        "ov"
+      ],
+      [
+        "m",
+        "en"
+      ],
+      [
+        "o",
+        "b"
+      ],
+      [
+        "o",
+        "t"
+      ],
+      [
+        "P",
+        "y"
+      ],
+      [
+        "T",
+        "ot"
+      ],
+      [
+        "U",
+        "men"
+      ],
+      [
+        "V",
+        "ed"
+      ],
+      [
+        "a",
+        "h"
+      ],
+      [
+        "a",
+        "l"
+      ],
+      [
+        "a",
+        "p"
+      ],
+      [
+        "a",
+        "t"
+      ],
+      [
+        "a",
+        "z"
+      ],
+      [
+        "a",
+        "mi"
+      ],
+      [
+        "c",
+        "i"
+      ],
+      [
+        "d",
+        "a"
+      ],
+      [
+        "d",
+        "s"
+      ],
+      [
+        "d",
+        "u"
+      ],
+      [
+        "d",
+        "ob"
+      ],
+      [
+        "e",
+        "j"
+      ],
+      [
+        "e",
+        "t"
+      ],
+      [
+        "e",
+        "ck"
+      ],
+      [
+        "f",
+        "l"
+      ],
+      [
+        "f",
+        "or"
+      ],
+      [
+        "h",
+        "i"
+      ],
+      [
+        "h",
+        "o"
+      ],
+      [
+        "h",
+        "y"
+      ],
+      [
+        "i",
+        "o"
+      ],
+      [
+        "i",
+        "t"
+      ],
+      [
+        "i",
+        "v"
+      ],
+      [
+        "i",
+        "z"
+      ],
+      [
+        "i",
+        "ck"
+      ],
+      [
+        "i",
+        "men"
+      ],
+      [
+        "i",
+        "ami"
+      ],
+      [
+        "j",
+        "az"
+      ],
+      [
+        "k",
+        "u"
+      ],
+      [
+        "k",
+        "á"
+      ],
+      [
+        "k",
+        "en"
+      ],
+      [
+        "k",
+        "re"
+      ],
+      [
+        "k",
+        "ej"
+      ],
+      [
+        "l",
+        "á"
+      ],
+      [
+        "l",
+        "ed"
+      ],
+      [
+        "m",
+        "u"
+      ],
+      [
+        "m",
+        "et"
+      ],
+      [
+        "n",
+        "y"
+      ],
+      [
+        "n",
+        "ovanie"
+      ],
+      [
+        "n",
+        "ap"
+      ],
+      [
+        "o",
+        "z"
+      ],
+      [
+        "o",
+        "ken"
+      ],
+      [
+        "p",
+        "re"
+      ],
+      [
+        "p",
+        "er"
+      ],
+      [
+        "p",
+        "ot"
+      ],
+      [
+        "p",
+        "oz"
+      ],
+      [
+        "r",
+        "é"
+      ],
+      [
+        "r",
+        "ô"
+      ],
+      [
+        "r",
+        "ie"
+      ],
+      [
+        "s",
+        "t"
+      ],
+      [
+        "s",
+        "led"
+      ],
+      [
+        "t",
+        "ex"
+      ],
+      [
+        "t",
+        "ovanie"
+      ],
+      [
+        "t",
+        "ho"
+      ],
+      [
+        "t",
+        "oken"
+      ],
+      [
+        "t",
+        "ré"
+      ],
+      [
+        "u",
+        "ds"
+      ],
+      [
+        "u",
+        "ká"
+      ],
+      [
+        "v",
+        "ý"
+      ],
+      [
+        "y",
+        "ku"
+      ],
+      [
+        "z",
+        "u"
+      ],
+      [
+        "z",
+        "ah"
+      ],
+      [
+        "z",
+        "ny"
+      ],
+      [
+        "é",
+        "z"
+      ],
+      [
+        "ó",
+        "da"
+      ],
+      [
+        "ý",
+        "mi"
+      ],
+      [
+        "ý",
+        "zu"
+      ],
+      [
+        "ľ",
+        "uds"
+      ],
+      [
+        "ň",
+        "a"
+      ],
+      [
+        "ŕ",
+        "ňa"
+      ],
+      [
+        "š",
+        "e"
+      ],
+      [
+        "ž",
+        "kov"
+      ],
+      [
+        "an",
+        "al"
+      ],
+      [
+        "ex",
+        "io"
+      ],
+      [
+        "ex",
+        "per"
+      ],
+      [
+        "or",
+        "ovanie"
+      ],
+      [
+        "or",
+        "ick"
+      ],
+      [
+        "re",
+        "fl"
+      ],
+      [
+        "er",
+        "a"
+      ],
+      [
+        "ob",
+        "dob"
+      ],
+      [
+        "Py",
+        "tho"
+      ],
+      [
+        "Tot",
+        "o"
+      ],
+      [
+        "Umen",
+        "ie"
+      ],
+      [
+        "Ved",
+        "eck"
+      ],
+      [
+        "at",
+        "iv"
+      ],
+      [
+        "ci",
+        "u"
+      ],
+      [
+        "du",
+        "še"
+      ],
+      [
+        "for",
+        "mu"
+      ],
+      [
+        "hi",
+        "st"
+      ],
+      [
+        "hy",
+        "pot"
+      ],
+      [
+        "it",
+        "y"
+      ],
+      [
+        "iz",
+        "era"
+      ],
+      [
+        "imen",
+        "tovanie"
+      ],
+      [
+        "jaz",
+        "yku"
+      ],
+      [
+        "kre",
+        "ativ"
+      ],
+      [
+        "lá",
+        "ciu"
+      ],
+      [
+        "met",
+        "óda"
+      ],
+      [
+        "nap",
+        "rie"
+      ],
+      [
+        "poz",
+        "orovanie"
+      ],
+      [
+        "rô",
+        "zny"
+      ],
+      [
+        "sled",
+        "kov"
+      ],
+      [
+        "tex",
+        "t"
+      ],
+      [
+        "token",
+        "izera"
+      ],
+      [
+        "tré",
+        "novanie"
+      ],
+      [
+        "uká",
+        "žkov"
+      ],
+      [
+        "vý",
+        "sledkov"
+      ],
+      [
+        "zah",
+        "ŕňa"
+      ],
+      [
+        "ľuds",
+        "kej"
+      ],
+      [
+        "anal",
+        "ýzu"
+      ],
+      [
+        "exio",
+        "u"
+      ],
+      [
+        "exper",
+        "imentovanie"
+      ],
+      [
+        "orick",
+        "ými"
+      ],
+      [
+        "refl",
+        "exiou"
+      ],
+      [
+        "obdob",
+        "iami"
+      ],
+      [
+        "Pytho",
+        "n"
+      ],
+      [
+        "Vedeck",
+        "á"
+      ],
+      [
+        "formu",
+        "láciu"
+      ],
+      [
+        "hist",
+        "orickými"
+      ],
+      [
+        "hypot",
+        "éz"
+      ],
+      [
+        "kreativ",
+        "ity"
+      ],
+      [
+        "naprie",
+        "č"
+      ],
+      [
+        "rôzny",
+        "mi"
+      ],
+      [
+        "ukážkov",
+        "ý"
+      ]
+    ]
+  }
+}

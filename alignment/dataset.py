@@ -45,9 +45,9 @@ class DPODataset(Dataset):
         chosen_full = prompt + chosen_text
         rejected_full = prompt + rejected_text
 
-        chosen_ids = self.tokenizer.encode(chosen_full)[:self.max_len]
-        rejected_ids = self.tokenizer.encode(rejected_full)[:self.max_len]
-        prompt_ids = self.tokenizer.encode(prompt)[:self.max_len]
+        chosen_ids = self.tokenizer.encode(chosen_full).ids[:self.max_len]
+        rejected_ids = self.tokenizer.encode(rejected_full).ids[:self.max_len]
+        prompt_ids = self.tokenizer.encode(prompt).ids[:self.max_len]
 
         return {
             "chosen_ids": torch.tensor(chosen_ids, dtype=torch.long),

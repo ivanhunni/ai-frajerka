@@ -1,27 +1,20 @@
+from pathlib import Path
 from tokenizers import Tokenizer
 
 class CustomTokenizer:
-    def __init__(self, model_path="tokenizer.json"):
-        # Načítanie vytrénovaného tokenizera zo súboru
+    def __init__(self, model_path="tokenizer/tokenizer.json"):
         self.tokenizer = Tokenizer.from_file(model_path)
 
+    @property
+    def vocab_size(self):
+        return self.tokenizer.get_vocab_size()
+
+    @property
+    def pad_token_id(self):
+        return self.tokenizer.token_to_id("[PAD]") or 0
+
     def encode(self, text: str):
-        """Prevedie text na ID tokenov."""
-        output = self.tokenizer.encode(text)
-        return output.ids, output.tokens
+        return self.tokenizer.encode(text).ids
 
     def decode(self, ids: list[int]):
-        """Prevedie zoznam ID tokenov späť na text."""
         return self.tokenizer.decode(ids)
-
-if __name__ == "__main__":
-    # Testovacia ukážka použitia
-    t = CustomTokenizer()
-    
-    test_text = "Umenie a vedecká metóda."
-    ids, tokens = t.encode(test_text)
-    
-    print(f"Pôvodný text: {test_text}")
-    print(f"Tokens:       {tokens}")
-    print(f"IDs:          {ids}")
-    print(f"Dekódované:   {t.decode(ids)}")

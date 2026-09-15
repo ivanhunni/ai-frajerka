@@ -6,7 +6,8 @@ import torch.nn.functional as F
 from torch.utils.data import DataLoader
 
 from model.transformer import Transformer
-from tokenizer.tokenizer import Tokenizer
+from tokenizers import Tokenizer
+from model.config import TransformerConfig
 from alignment.config import AlignmentConfig
 from alignment.dataset import DPODataset, collate_dpo_fn
 
@@ -21,11 +22,11 @@ def train_dpo_alignment():
     device = torch.device(cfg.device if torch.cuda.is_available() else "cpu")
     print(f"Používam zariadenie pre Alignment (DPO): {device}")
 
-    Tokenizer.from_file("tokenizer/tokenizer.json")
+    tokenizer = Tokenizer.from_file("tokenizer/tokenizer.json")
 
     # 1. Načítanie Trénovaného Modelu (Policy)
     print("Načítavam konverzačný model...")
-    policy_model = Transformer()
+    policy_model = Transformer(TransformerConfig(vocab_size=tokenizer.get_vocab_size(), max_seq_len=cfg.max_seq_len))
     if os.path.exists(cfg.conversation_checkpoint_path):
         checkpoint = torch.load(cfg.conversation_checkpoint_path, map_location=device)
         state_dict = checkpoint["model_state_dict"] if isinstance(checkpoint, dict) and "model_state_dict" in checkpoint else checkpoint

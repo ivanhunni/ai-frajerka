@@ -2,7 +2,7 @@ from dataclasses import dataclass
 
 @dataclass
 class TransformerConfig:
-    vocab_size: int = 5000
+    vocab_size: int = 1000
     max_seq_len: int = 512
     d_model: int = 256
     n_heads: int = 8

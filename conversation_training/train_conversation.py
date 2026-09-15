@@ -5,7 +5,8 @@ from torch.utils.data import DataLoader
 from torch.nn import CrossEntropyLoss
 
 from model.transformer import Transformer  # Názov vášho modelu
-from tokenizer.tokenizer import Tokenizer        # Názov vášho tokenizeru
+from tokenizers import Tokenizer
+from model.config import TransformerConfig
 from conversation_training.config import ConversationTrainingConfig
 from conversation_training.dataset import ConversationDataset, collate_conversation_fn
 
@@ -15,11 +16,11 @@ def train_conversation_tuning():
     print(f"Používam zariadenie pre Conversation Training: {device}")
 
     # 1. Načítanie Tokenizeru
-    Tokenizer.from_file("tokenizer/tokenizer.json")
+    tokenizer = Tokenizer.from_file("tokenizer/tokenizer.json")
 
     # 2. Načítanie Predchádzajúceho Modelu
     print("Načítavam checkpoint pre konverzačný tréning...")
-    model = Transformer()
+    model = Transformer(TransformerConfig(vocab_size=tokenizer.get_vocab_size(), max_seq_len=cfg.max_seq_len))
     if os.path.exists(cfg.base_checkpoint_path):
         checkpoint = torch.load(cfg.base_checkpoint_path, map_location=device)
         # Podpora pre celú štruktúru checkpointu aj samotný state_dict

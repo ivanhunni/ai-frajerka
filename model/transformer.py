@@ -5,13 +5,13 @@ from .embeddings import Embeddings
 from .transformer_block import TransformerBlock
 
 class Transformer(nn.Module):
-    def __init__(self, config: TransformerConfig):
+    def __init__(self, config: TransformerConfig | None = None):
         super().__init__()
-        self.config = config
-        self.embeddings = Embeddings(config)
-        self.blocks = nn.ModuleList([TransformerBlock(config) for _ in range(config.n_layers)])
-        self.norm = nn.LayerNorm(config.d_model)
-        self.head = nn.Linear(config.d_model, config.vocab_size, bias=False)
+        self.config = config or TransformerConfig()
+        self.embeddings = Embeddings(self.config)
+        self.blocks = nn.ModuleList([TransformerBlock(self.config) for _ in range(self.config.n_layers)])
+        self.norm = nn.LayerNorm(self.config.d_model)
+        self.head = nn.Linear(self.config.d_model, self.config.vocab_size, bias=False)
 
     def generate_causal_mask(self, seq_len: int, device: torch.device) -> torch.Tensor:
         mask = torch.tril(torch.ones((seq_len, seq_len), device=device)).bool()

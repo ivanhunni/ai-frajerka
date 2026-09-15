@@ -4,7 +4,7 @@ from dataclasses import dataclass
 @dataclass
 class InstructionTrainingConfig:
     # Cesty k dátam a checkpointom
-    pretrained_checkpoint_path: str = "checkpoints/pretrained_model.pt"
+    pretrained_checkpoint_path: str = "checkpoints/pretraining/pretrained_model.pt"
     output_dir: str = "checkpoints/instruction_model"
     data_dirs: list = None
 
