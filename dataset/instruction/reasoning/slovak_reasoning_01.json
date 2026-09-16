@@ -1,0 +1,3502 @@
+[
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak vlak vyrazí o 8:00 a cesta trvá 2 hodiny, kedy príde?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 8:00 + 2 hodiny. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Vlak príde o 10:00."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "V obchode stojí zošit 2 eurá. Koľko stoja 4 rovnaké zošity?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 2 × 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Štyri zošity stoja 8 eur."
+  },
+  {
+    "problem": "Ak má človek 12 kníh a 3 požičia, koľko mu zostane?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 12 - 3. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostane mu 9 kníh."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Úloha má 20 krokov a 7 je hotových. Koľko krokov zostáva?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 20 - 7. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Zostáva 13 krokov."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  },
+  {
+    "problem": "Máš 5 červených a 4 modré perá. Koľko pier máš spolu?",
+    "reasoning": "Najprv si zapíšeme údaje z úlohy. Potom vykonáme potrebnú operáciu: 5 + 4. Výsledok skontrolujeme podľa pôvodnej otázky.",
+    "output": "Spolu máš 9 pier."
+  }
+]
